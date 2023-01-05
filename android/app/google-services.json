@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "984874298502",
+    "project_id": "club-task",
+    "storage_bucket": "club-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984874298502:android:d6590d156f2cf838127507",
+        "android_client_info": {
+          "package_name": "com.example.club_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984874298502-vcihifq35g9r0s5i2c6n8p119h10vbv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqVU_w9en-W7ZBkEuzwKO4zYjp-Zc8G_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984874298502-vcihifq35g9r0s5i2c6n8p119h10vbv0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "984874298502-shuiva21q61l1h67fmfoj950caar4csl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.clubTask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
